@@ -1,0 +1,36 @@
+{
+  "cohort": "2028",
+  "window": {
+    "start_date": "2027-11-01",
+    "end_date": "2027-11-02",
+    "timezone": "America/Denver",
+    "working_hours": "09:00-17:00",
+    "min_duration_minutes": 90
+  },
+  "sessions": [
+    {
+      "candidate": "Ruben Vasquez",
+      "role": "Data Engineer",
+      "start": "2027-11-01T10:30:00-06:00",
+      "end": "2027-11-01T12:00:00-06:00"
+    },
+    {
+      "candidate": "Nadia Kowalczyk",
+      "role": "Software Engineer, Platform",
+      "start": "2027-11-01T13:00:00-06:00",
+      "end": "2027-11-01T14:30:00-06:00"
+    },
+    {
+      "candidate": "Ada Okonkwo",
+      "role": "Site Reliability Engineer",
+      "start": "2027-11-02T09:00:00-06:00",
+      "end": "2027-11-02T10:30:00-06:00"
+    },
+    {
+      "candidate": "Theo Lindqvist",
+      "role": "Security Engineer",
+      "start": "2027-11-02T11:00:00-06:00",
+      "end": "2027-11-02T12:30:00-06:00"
+    }
+  ]
+}
